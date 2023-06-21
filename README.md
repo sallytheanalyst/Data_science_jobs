@@ -38,3 +38,15 @@ This project was carried out using Python and it was done to better understand t
 ### Further Analysis
 
 - There is a very low correlation between the numerical variables
+
+## Summary
+
+- Employee’s residence is not solely dependent on the company’s location, especially with remote opportunities
+- Remote jobs are on the rise, however, with covid suppression, on-site jobs are also increasing
+- The top 3 job roles are Data Science, Data Engineering, and Data Analyst but Principal Data Engineer has the highest salary
+- Senior/Expert level is the most common occurrence among job roles
+- Salary has increased over the years decreasing the number of low earners
+- The country with the highest paying average salary in Russia(157,500)
+- Medium-sized companies are the largest (53.71%), followed by large organizations(32.62%) then small-sized organizations(13.67%)
+
+
